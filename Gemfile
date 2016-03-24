@@ -39,6 +39,7 @@ gem 'will_paginate-bootstrap'
 gem 'sqlite3', group: :development
 gem 'pg', group: :production
 gem 'rails_12factor', group: :production
+gem 'puma', group: :production
 gem 'whenever', :require => false
 gem 'better_errors'
 gem 'binding_of_caller'
